@@ -1,5 +1,5 @@
-from GUI_validator import *
-from GUI_validator.module import *
+from gui_validator import *
+from gui_validator.module import *
 
 x_start = 30
 y_start = 30

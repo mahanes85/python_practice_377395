@@ -1,4 +1,4 @@
-from GUI_validator import *
+from gui_validator import *
 
 def national_id_validator(id):
     if national_id.validate(id):
